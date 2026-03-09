@@ -10,6 +10,7 @@ The Abstract macropad is my submission for Hack Club Blueprint. It has a 3x3 key
 ## CAD
 
 <img width="1137" height="797" alt="image" src="https://github.com/user-attachments/assets/340cf921-9513-421c-933a-3fa8985961e0" />
+<img width="676" height="550" alt="image" src="https://github.com/user-attachments/assets/3e9a4002-523e-4346-af24-8d16e0409239" />
 
 ## PCB
 This was made in KiCad.
