@@ -1,5 +1,5 @@
 # Abstract-Macropad
-The Abstract macropad is my submission for Hack Club Blueprint. It has a 3x3 keyboard with a rotary encoder, an OLED display, and a mini LED. It uses a Seeed XIAO RP2040 MCU and QMK firmware.
+The Abstract macropad is my submission for Hack Club Blueprint. It has a 3x3 keyboard with a rotary encoder, and an OLED display. It uses a Seeed XIAO RP2040 MCU and QMK firmware.
 
 ## Features
 - 2-part 3D-printed case
