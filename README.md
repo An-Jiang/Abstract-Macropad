@@ -26,7 +26,7 @@ PCB:
 <img width="865" height="850" alt="Screenshot 2026-03-08 191837" src="https://github.com/user-attachments/assets/873d3e7e-8255-439a-a322-d2c82d2ddece" />
 
 ## Firmware Overview
-This macropad uses QMK firmware. Mechanics will be updated once I receive PCB.
+This macropad uses QMK firmware. The rotary encoder will change the volume and the OLED will display the text "Hello". Each of the keys has a different shortcut function.
 
 ## BOM
 Materials required to make the Abstract:
